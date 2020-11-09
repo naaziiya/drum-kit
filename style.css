@@ -1,0 +1,73 @@
+body{
+    background-color: #172242;
+    text-align: center;
+    /* overflow: hidden; */
+}
+#title{
+    font-size: 5rem;
+    color: #fff;  
+}
+.w{
+    background-image: url("images/drum-1893996_640.png");
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+}
+.a{
+    background-image: url("images/drums-308752_640.png");
+    background-size: 130px 130px;
+    background-repeat: no-repeat;
+}
+.s{
+    background-image: url("images/drum-307908_640.png") ;
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+}
+.d{
+    background-image: url("images/small-drum-2121308_640.png");
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+}
+.j{
+    background-image: url("images/drum-96179_640.jpg") ;
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+}
+.k{
+    background-image: url("images/drum-1294954_640.png");
+    background-size: 120px 130px;
+    background-repeat: no-repeat;
+}
+.l{
+    background-image: url("images/snare-drum-2661290_640.jpg");
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+} 
+.set{
+    margin: 10% auto;
+    text-align: center;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.red{
+    color: red;
+}
+.drum{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+}
+footer{
+    color: #fff;
+}
